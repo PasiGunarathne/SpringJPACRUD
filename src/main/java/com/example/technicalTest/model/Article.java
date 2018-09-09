@@ -5,3 +5,4 @@ package com.example.technicalTest.model;
  */
 public class Article {
 }
+
