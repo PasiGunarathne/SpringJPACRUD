@@ -12,4 +12,10 @@ public interface ArticalService {
     public List<Article> getAllArticles();
 
     public Article getArticleById(Long id);
+
+    public void saveOrUpdateArticle(Article article);
+
+    public void deleteArticle(Long id);
+
+
 }
