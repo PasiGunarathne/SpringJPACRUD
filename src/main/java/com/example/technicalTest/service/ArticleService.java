@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Created by pasindu on 3/8/19.
  */
-public interface ArticalService {
+public interface ArticleService {
 
     public List<Article> getAllArticles();
 
